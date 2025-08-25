@@ -8,11 +8,11 @@
 ---
 
 <p align="center">
-  🚀 I'm a passionate <b>MERN Stack Developer</b> who loves building scalable web apps, solving real-world problems, and turning ideas into powerful digital experiences.  
+   I'm a passionate <b>MERN Stack Developer</b> who loves building scalable web apps, solving real-world problems, and turning ideas into powerful digital experiences.  
 </p>
 
 <p align="center">
-  💡 Clean Code | ⚡ Fast Performance | 🌱 Continuous Learning
+   Clean Code |  Fast Performance |  Continuous Learning
 </p>
 
 
