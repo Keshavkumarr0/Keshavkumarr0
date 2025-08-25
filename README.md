@@ -1,11 +1,18 @@
-<!-- Banner -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Keshav%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.png" alt="Banner" />
 </p>
 
-# 👋 Hi, I'm Keshav Kumar  
+---
 
-**💻 MERN Stack Developer | 🚀 Turning Ideas into Code | 🎨 Building Interactive Web Experiences**  
+<p align="center">
+  🚀 I'm a passionate <b>MERN Stack Developer</b> who loves building scalable web apps, solving real-world problems, and turning ideas into powerful digital experiences.  
+</p>
+
+<p align="center">
+  💡 Clean Code | ⚡ Fast Performance | 🌱 Continuous Learning
+</p>
+
 
 ---
 
