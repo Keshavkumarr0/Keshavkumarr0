@@ -7,14 +7,9 @@
 <h1 align="center">Hey there! I'm Keshav Kumar 👋</h1>
 
 ---
-
-### 👨‍💻 About Me  
+ 
 I’m an aspiring **MERN Stack Developer** with a strong foundation in **Web Development** and **Problem Solving**.  
 I believe in building **innovative solutions** that are simple, impactful, and scalable.  
-
-📌 Currently learning **DSA in C++ & React**  
-📌 Passionate about **Full Stack Development**  
-📌 Goal: To become a **top 1% developer & problem solver**  
 
 > _"The best way to predict the future is to create it."_ – Alan Kay  
 
