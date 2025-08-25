@@ -1,29 +1,30 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=200&section=header&text=Your%20Name%20Here&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Keshav%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-# 👋 Hi, I'm Your Name  
+# 👋 Hi, I'm Keshav Kumar  
 
-🚀 Passionate **MERN Stack Developer**  
-🎨 Building **Creative & Interactive Websites**  
-💡 Exploring **AI, GSAP Animations, 3D Web (Three.js), and Modern UI/UX**  
-🤝 Open to **collaborations & innovative projects**  
-📍 Based in India 🌏 Dreaming globally  
+💻 Aspiring **Full Stack / MERN Developer**  
+🎨 Passionate about **Creative, Interactive & Modern Web Apps**  
+⚡ Skilled in **JavaScript, React, Node.js, Express, MongoDB**  
+🤖 Exploring **AI Integrations, Animations (GSAP), & 3D Web (Three.js)**  
+🌏 Open to **collaborations & innovative projects**  
+📍 Based in India, dreaming globally 🌐  
 
 ---
 
-## 🔗 Connect With Me:
+## 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.icons8.com/color/48/twitter.png"/></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png"/></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.icons8.com/color/48/twitter.png"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.icons8.com/color/48/domain.png"/></a>
 </p>
 
 ---
 
-## ⚡ Tech Stack:
+## ⚡ Tech Stack
 <p align="center">
   <img src="https://img.icons8.com/color/48/html-5.png"/>
   <img src="https://img.icons8.com/color/48/css3.png"/>
@@ -36,14 +37,14 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" height="180px"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
