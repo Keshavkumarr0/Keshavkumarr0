@@ -5,12 +5,57 @@
 
 # 👋 Hi, I'm Keshav Kumar  
 
-💻 Aspiring **Full Stack / MERN Developer**  
-🎨 Passionate about **Creative, Interactive & Modern Web Apps**  
-⚡ Skilled in **JavaScript, React, Node.js, Express, MongoDB**  
-🤖 Exploring **AI Integrations, Animations (GSAP), & 3D Web (Three.js)**  
-🌏 Open to **collaborations & innovative projects**  
-📍 Based in India, dreaming globally 🌐  
+**💻 MERN Stack Developer | 🚀 Turning Ideas into Code | 🎨 Building Interactive Web Experiences**  
+
+---
+
+## 🔥 Tech Stack (Tools of the Trade)  
+*"I am not just a developer, I am a tech artist!"*
+
+### ⚡ Frontend:
+<p>
+  <img src="https://img.icons8.com/color/48/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/css3.png"/>
+  <img src="https://img.icons8.com/color/48/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png"/>
+</p>
+
+### ⚡ Backend:
+<p>
+  <img src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img src="https://img.icons8.com/ios/50/express-js.png"/>
+  <img src="https://img.icons8.com/officel/48/java-eclipse.png"/>
+</p>
+
+### ⚡ Databases:
+<p>
+  <img src="https://img.icons8.com/color/48/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+</p>
+
+### ⚡ Cloud & DevOps:
+<p>
+  <img src="https://img.icons8.com/color/48/google-cloud.png"/>
+  <img src="https://img.icons8.com/color/48/docker.png"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/github.png"/>
+  <img src="https://img.icons8.com/color/48/firebase.png"/>
+</p>
+
+### ⚡ AI, ML & DSA:
+<p>
+  <img src="https://img.icons8.com/color/48/python.png"/>
+  <img src="https://img.icons8.com/color/48/tensorflow.png"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>  
+</p>
+
+---
+
+## 📊 GitHub Stats & Contributions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" height="180px"/>
+</p>
 
 ---
 
@@ -24,27 +69,8 @@
 
 ---
 
-## ⚡ Tech Stack
-<p align="center">
-  <img src="https://img.icons8.com/color/48/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/css3.png"/>
-  <img src="https://img.icons8.com/color/48/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/express.png"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" height="180px"/>
-</p>
-
----
-
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
+
