@@ -1,4 +1,7 @@
-<h1 align="center">Hi there, I'm Keshav Kumar 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A90E2,100:9013FE&height=120&section=header&text=Keshav%20Kumar%20🚀%20Fullstack%20Developer&fontSize=35&fontColor=ffffff&animation=scaleIn" alt="banner" />
+</p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
