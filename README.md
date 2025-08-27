@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A90E2,100:9013FE&height=120&section=header&text=Keshav%20Kumar%20🚀%20Fullstack%20Developer&fontSize=35&fontColor=ffffff&animation=scaleIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9CCA,100:2E9CCA&height=200&section=header&text=Keshav%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
 </p>
 
 
