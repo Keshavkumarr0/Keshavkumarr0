@@ -32,8 +32,14 @@ powerful **backend systems**, and the intelligence of **AI-driven solutions**.
 
 ### ⚙️ Backend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
 </p>
+
+### 🗄️ Database  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
 
 ---
 
