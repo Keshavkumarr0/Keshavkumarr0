@@ -46,9 +46,8 @@ powerful **backend systems**, and the intelligence of **AI-driven solutions**.
     alt="Keshav kumar's GitHub Stats" />
 
   <!-- Contribution Graph -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=keshavkumarr0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=495&title_color=ff79c6"
-    alt="Keshav kumar's GitHub Stats" />
+[![Keshav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=keshavkumarr0&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </p>
 
 
