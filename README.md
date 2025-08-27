@@ -9,7 +9,8 @@
 </p> 
 
 I’m an **Aspiring Software Development Engineer** with a strong foundation in **Fullstack Web Development** and **AI Integration**.  
-I specialize in crafting **scalable, modern, and high-performance web applications** by combining smooth **frontend experiences**, powerful **backend systems**, and the intelligence of **AI-driven solutions**.  
+I specialize in crafting **scalable, modern, and high-performance web applications** by combining smooth **frontend experiences**,
+powerful **backend systems**, and the intelligence of **AI-driven solutions**.  
 
 <p>
   <em>
