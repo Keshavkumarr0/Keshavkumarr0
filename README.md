@@ -13,7 +13,8 @@ I specialize in crafting **scalable, modern, and high-performance web applicatio
 
 <p align="center">
   <em>
-    <span style="color: rgba(255,255,255,0.65);">
+    <span style="color: rgba(255,255,255,0.55);"> 
+
       “First, solve the problem. Then, write the code.” – John Johnson
     </span>
   </em>
