@@ -52,6 +52,7 @@ powerful **backend systems**, and the intelligence of **AI-driven solutions**.
 </p>
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=keshavkumarr0&show_icons=true&theme=tokyonight&cache_seconds=7200" />
 
 ---
 
