@@ -56,9 +56,9 @@ powerful **backend systems**, and the intelligence of **AI-driven solutions**.
 ## 🔗 Connect with Me  
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="mailto:yourmail@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-<a href="https://leetcode.com/keshav_kumar/"><img src="https://skillicons.dev/icons?i=leetcode" height="40" /></a>
+  <a href="https://linkedin.com/in/keshav--kumar"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="mailto:keshav0306kumar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+<a href="https://leetcode.com/keshavkumarr0/"><img src="https://skillicons.dev/icons?i=leetcode" height="40" /></a>
 
 </p>
 
