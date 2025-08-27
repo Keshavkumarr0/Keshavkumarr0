@@ -12,10 +12,7 @@
 
 ---
 
-<!-- Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Keshav+Kumar;Fullstack+Developer+%7C+Frontend+%26+Backend;Building+Scalable+and+Modern+Web+Apps;Crafting+Smooth+UI%2FUX+with+Powerful+Backends" alt="Typing SVG" />
-</h1>
+
 
 ---
 
