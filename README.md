@@ -6,7 +6,12 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9CCA&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Open+Source+Contributor;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
   </a>
-</p>
+</p> 
+
+I’m an **Aspiring Software Development Engineer** with a strong foundation in **Fullstack Web Development** and **AI Integration**.  
+I specialize in crafting **scalable, modern, and high-performance web applications** by combining smooth **frontend experiences**, powerful **backend systems**, and the intelligence of **AI-driven solutions**.  
+
+I believe in **innovating solutions to real-world challenges** through technology that is not only functional but also impactful — leveraging **Artificial Intelligence** to make applications smarter, adaptive, and future-ready.  
 
 
 
