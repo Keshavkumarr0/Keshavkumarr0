@@ -2,19 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9CCA,100:2E9CCA&height=200&section=header&text=Keshav%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
 </p>
 
-
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9CCA&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Open+Source+Contributor;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
----
 
 
-
----
 
 ## 🚀 Tech Stack  
 
