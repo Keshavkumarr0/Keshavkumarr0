@@ -37,7 +37,7 @@ powerful **backend systems**, and the intelligence of **AI-driven solutions**.
 
 ---
 
-## ​ GitHub Stats & Contributions
+## ​ GitHub Stats 
 
 <p align="center">
   <!-- GitHub Stats Card -->
@@ -45,25 +45,13 @@ powerful **backend systems**, and the intelligence of **AI-driven solutions**.
     src="https://github-readme-stats.vercel.app/api?username=keshavkumarr0&show_icons=true&theme=tokyonight"
     alt="Keshav kumar's GitHub Stats" />
 
-  <!-- Contribution Graph -->
-<img src="https://github-readme-stats.vercel.app/api?username=keshavkumarr0&show_icons=true&theme=tokyonight&count_private=true" />
+  
 
 
 </p>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=keshavkumarr0&show_icons=true&theme=tokyonight&cache_seconds=7200" />
-
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keshav-Kumar&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav-Kumar&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
 
 ## 🔗 Connect with Me  
 
@@ -73,14 +61,6 @@ powerful **backend systems**, and the intelligence of **AI-driven solutions**.
   <a href="https://github.com/Keshav-Kumar"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
 </p>
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkumar&layout=compact&theme=radical" />
-</p>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma" />
-</p>
