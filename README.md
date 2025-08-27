@@ -35,10 +35,22 @@ powerful **backend systems**, and the intelligence of **AI-driven solutions**.
   <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
 </p>
 
-### 🗄️ Database  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+---
+
+## ​ GitHub Stats & Contributions
+
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=keshavkumarr0&show_icons=true&theme=tokyonight"
+    alt="Keshav kumar's GitHub Stats" />
+
+  <!-- Contribution Graph -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=keshavkumarr0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=495&title_color=ff79c6"
+    alt="Keshav kumar's GitHub Stats" />
 </p>
+
 
 
 ---
