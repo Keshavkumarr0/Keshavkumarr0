@@ -11,7 +11,14 @@
 I’m an **Aspiring Software Development Engineer** with a strong foundation in **Fullstack Web Development** and **AI Integration**.  
 I specialize in crafting **scalable, modern, and high-performance web applications** by combining smooth **frontend experiences**, powerful **backend systems**, and the intelligence of **AI-driven solutions**.  
 
-“First, solve the problem. Then, write the code.” – John Johnson
+<p align="center">
+  <em>
+    <span style="color: rgba(255,255,255,0.65);">
+      “First, solve the problem. Then, write the code.” – John Johnson
+    </span>
+  </em>
+</p>
+
 
 
 
