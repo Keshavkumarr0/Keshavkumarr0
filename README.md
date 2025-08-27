@@ -11,7 +11,7 @@
 I’m an **Aspiring Software Development Engineer** with a strong foundation in **Fullstack Web Development** and **AI Integration**.  
 I specialize in crafting **scalable, modern, and high-performance web applications** by combining smooth **frontend experiences**, powerful **backend systems**, and the intelligence of **AI-driven solutions**.  
 
-I believe in **innovating solutions to real-world challenges** through technology that is not only functional but also impactful — leveraging **Artificial Intelligence** to make applications smarter, adaptive, and future-ready.  
+“First, solve the problem. Then, write the code.” – John Johnson
 
 
 
