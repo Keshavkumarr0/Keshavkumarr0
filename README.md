@@ -56,17 +56,8 @@ powerful **backend systems**, and the intelligence of **AI-driven solutions**.
 
 
 
-   💭 Developer's Wisdom
 
 "Code never lies, comments sometimes do. But great developers write code that explains itself."
 
 
-🤝 Let's Connect!
-I'm always excited to collaborate on interesting projects, discuss tech, or just have a chat about the latest in web development and AI! Feel free to reach out:
-<p align="left">
-  <a href="www.linkedin.com/in/keshav--kumar" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <!-- Add more social links here -->
-</p>
-💼 LinkedIn: Connect with me!
+
