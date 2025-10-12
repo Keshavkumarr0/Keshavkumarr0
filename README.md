@@ -21,11 +21,10 @@ powerful **backend systems**, and the intelligence of **AI-driven solutions**.
 </p>
 
 
-
- 🚀 Tech Stack  
-
 🔥 Tech Stack (Tools of the Trade)
+
 ⚡ Frontend:
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
