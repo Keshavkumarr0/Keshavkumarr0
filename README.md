@@ -25,23 +25,50 @@ powerful **backend systems**, and the intelligence of **AI-driven solutions**.
 
 ## 🚀 Tech Stack  
 
-### 🌐 Frontend  
+🔥 Tech Stack (Tools of the Trade)
+
+
+
+## ⚡ Frontend:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,next,bootstrap,tailwind,gsap" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="Three.js" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="GSAP" width="50" height="50" style="filter: hue-rotate(90deg);"/>
 </p>
 
-### ⚙️ Backend  
+## ⚙️ Backend:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50" style="background: white; padding: 5px; border-radius: 5px;"/>
 </p>
 
-### 🗄️ Database  
+## 🗄️ Databases:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+</p>
+
+## ☁️ Cloud & DevOps:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="background: white; padding: 5px; border-radius: 50%;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
 </p>
 
 ---
 
+## 📊 GitHub Stats & Contributions
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
 
   
 
