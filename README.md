@@ -25,9 +25,7 @@ powerful **backend systems**, and the intelligence of **AI-driven solutions**.
  🚀 Tech Stack  
 
 🔥 Tech Stack (Tools of the Trade)
-
-
- ⚡ Frontend:
+⚡ Frontend:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
@@ -35,14 +33,13 @@ powerful **backend systems**, and the intelligence of **AI-driven solutions**.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="60" height="60"/>
-  <img src="https://greensock.com/uploads/monthly_2020_03/icon.png.cf3be5202862a7286b66b2198b680496.png" alt="GSAP" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/512/javascript.svg" alt="GSAP" width="60" height="60"/>
 </p>
 
-⚙️ Backend:
+ ⚙️ Backend:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="GSAP" width="60" height="60"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="60" height="60"/>
 </p>
 
  🗄️ Databases:
@@ -56,14 +53,4 @@ powerful **backend systems**, and the intelligence of **AI-driven solutions**.
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60"/>
 </p>
-
-
-<p align="center">⭐ From [keshavkumarr0](https://github.com/keshavkumarr0)</p>
-
-
-  
-
-
-
-
 
