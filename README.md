@@ -56,7 +56,7 @@ powerful **backend systems**, and the intelligence of **AI-driven solutions**.
 
 
 
-"Code never lies, comments sometimes do. But great developers write code that explains itself."
+"Code never lies, comments sometimes do. But great developers write code that explains itself"
 
 
 
