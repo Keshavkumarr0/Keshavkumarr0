@@ -21,7 +21,7 @@ powerful **backend systems**, and the intelligence of **AI-driven solutions**.
 </p>
 
 
-🔥 Tech Stack (Tools of the Trade)
+🔥 Tech Stack
 
 ⚡ Frontend:
 
