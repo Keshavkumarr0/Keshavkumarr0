@@ -32,7 +32,7 @@ powerful **backend systems**, and the intelligence of **AI-driven solutions**.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/512/javascript.svg" alt="GSAP" width="60" height="60"/>
+
 </p>
 
  ⚙️ Backend:
